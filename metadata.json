@@ -1,0 +1,6 @@
+{
+  "name": "ShifoHavo",
+  "description": "Ob-havo o'zgarishlari va salomatlik ogohlantirishlari, tahlil va dori monitoringi, AI dori skaneri hamda shifokorga onlayn navbat olish tizimi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
